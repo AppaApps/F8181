@@ -73,7 +73,7 @@ dependencies other than Perl itself. Perl comes ready installed on all modern
 systems these days; even Windows has Linux services available and so finally:
 Windows has Perl too. Thus you should be able to enter:
 
- perl Q1-Brenan-Philip-R.pl
+ perl F8181.pl
 
 at the command line and get:
 
@@ -82,7 +82,7 @@ at the command line and get:
 upon successful completion or else an error message id something unexpected
 happens. Or if you supply a parameter:
 
- perl Q1-Brenan-Philip-R.pl --test
+ perl F8181.pl --test
 
 then additional tests will be run to improve confidence in the results above.
 
